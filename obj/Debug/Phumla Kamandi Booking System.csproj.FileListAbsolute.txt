@@ -1,0 +1,20 @@
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla Kamandi Booking System.csproj.AssemblyReference.cache
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla_Kamandi_Booking_System.Presentation.booking_form.resources
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla_Kamandi_Booking_System.Properties.Resources.resources
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla Kamandi Booking System.csproj.GenerateResource.cache
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla Kamandi Booking System.csproj.CoreCompileInputs.cache
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla_Kamandi_Booking_System.Presentation.Booking_Confirmation_Form.resources
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla_Kamandi_Booking_System.Presentation.Booking_Listing_Form.resources
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla_Kamandi_Booking_System.Presentation.Details_Confirmation_Form.resources
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla_Kamandi_Booking_System.Presentation.Guest_Form.resources
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla_Kamandi_Booking_System.Presentation.Payment_Form.resources
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\bin\Debug\BookingDatabase.mdf
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\bin\Debug\BookingDatabase_log.ldf
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\bin\Debug\Phumla Kamandi Booking System.exe.config
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\bin\Debug\Phumla Kamandi Booking System.exe
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\bin\Debug\Phumla Kamandi Booking System.pdb
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla Kamandi Booking System.exe
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla Kamandi Booking System.pdb
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla_Kamandi_Booking_System.Presentation.Financial_Report_Form.resources
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla_Kamandi_Booking_System.Presentation.Menu_Form.resources
+C:\Users\lethabo\OneDrive - University of Cape Town\INF20011S\project\Phumla Kamandi Booking System\Phumla Kamandi Booking System\obj\Debug\Phumla_Kamandi_Booking_System.Presentation.Occupancy_Report_Form.resources
